@@ -13,8 +13,8 @@
 
 
 * Please replace the directories with your own
-global dir "D:\statafile\VaxLottery\WV\publicshare"   //for storing data
-global fruit "D:\statafile\VaxLottery\WV\output\share"   //for storing output tables/figures
+global dir "..."   //for storing data
+global fruit "..."   //for storing output tables/figures
 
 
 cd $dir
